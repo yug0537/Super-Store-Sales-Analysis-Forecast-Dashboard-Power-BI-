@@ -25,4 +25,7 @@ The primary objective of this project is to analyze and visualize Super Store sa
 - Top Performing States
 - Sales Forecast (Next 15 Days)
 
+## Dashboard Interaction
+
+
 

@@ -43,6 +43,18 @@ The primary objective of this project is to analyze and visualize Super Store sa
 <img width="1283" alt="Screenshot 2025-05-14 at 00 37 35" src="https://github.com/user-attachments/assets/667e01ed-0221-4c90-a42b-e592491c70ef" />
 <img width="1272" alt="Screenshot 2025-05-14 at 00 38 19" src="https://github.com/user-attachments/assets/8b22bec0-a028-46f3-ab63-349b340d7653" />
 
+## Key Insights
+- Total Sales: $1.6M | Total Profit: $175K
+- December shows the highest sales and profit, indicating a strong end-of-year demand.
+- Consumer segment drives the most revenue (48% of sales), followed by Corporate (33%).
+- The West region contributes the most to sales (33%), while the South underperforms slightly.
+- Office Supplies and Technology are the highest-selling categories.
+-	Top sub-categories: Phones, Chairs, Binders.
+- Standard Class is the most used shipping method (~$0.33M in sales), indicating a customer preference for cost-effective delivery.
+-	The average delivery time is 4 days, which can be optimized to improve customer satisfaction.
+-	The 15-day sales forecast shows fluctuating trends, with expected dips post-holiday season, useful for short-term inventory planning.
+-	California, New York, and Texas are top-performing states in sales, indicating high-potential markets for targeted campaign
+
 
 
 

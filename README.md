@@ -39,5 +39,11 @@ The primary objective of this project is to analyze and visualize Super Store sa
 - Forecast dashboard for 15-day sales projection.
 - Forecasting: Enabled forecasting in the line chart visual using Power BI analytics pane with confidence intervals.
 
+## View Dashboard
+<img width="1283" alt="Screenshot 2025-05-14 at 00 37 35" src="https://github.com/user-attachments/assets/667e01ed-0221-4c90-a42b-e592491c70ef" />
+<img width="1272" alt="Screenshot 2025-05-14 at 00 38 19" src="https://github.com/user-attachments/assets/8b22bec0-a028-46f3-ab63-349b340d7653" />
+
+
+
 
 

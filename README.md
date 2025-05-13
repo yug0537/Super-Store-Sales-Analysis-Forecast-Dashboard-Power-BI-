@@ -26,6 +26,7 @@ The primary objective of this project is to analyze and visualize Super Store sa
 - Sales Forecast (Next 15 Days)
 
 ## Dashboard Interaction
+<a href="https://github.com/yug0537/Super-Store-Sales-Analysis-Forecast-Dashboard-Power-BI-/blob/main/SuperStore_salesDashboard.pbix">Dashboard<a/>
 
 
 

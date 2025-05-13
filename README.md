@@ -14,3 +14,15 @@ The primary objective of this project is to analyze and visualize Super Store sa
 - Slicers for regional-level filtering
 - Interactive visuals: Line charts, Donut charts, Bar charts, Map visuals
 
+## KPIs
+- Total Sales
+- Total Profit
+- Total Orders
+- Average Delivery Time
+- Monthly Sales YoY Comparison
+- Monthly Profit YoY Comparison
+- Sales by Segment, Region, and Category
+- Top Performing States
+- Sales Forecast (Next 15 Days)
+
+

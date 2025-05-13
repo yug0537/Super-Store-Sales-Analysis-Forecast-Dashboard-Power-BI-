@@ -28,5 +28,16 @@ The primary objective of this project is to analyze and visualize Super Store sa
 ## Dashboard Interaction
 <a href="https://github.com/yug0537/Super-Store-Sales-Analysis-Forecast-Dashboard-Power-BI-/blob/main/SuperStore_salesDashboard.pbix">Dashboard<a/>
 
+## Process
+- Data Cleaning & Shaping: Used Power Query to clean and transform raw data (e.g., formatting dates, handling nulls, creating derived columns).
+- Data Modeling: Established relationships among tables using Power BI’s data model and built a star schema.
+- Calculated Measures: Created KPIs using DAX (Total Sales, Total Profit, Orders, Delivery Time).
+- Visualizations: Built multiple report pages:
+- Overview dashboard with segment, region, category, ship mode.
+- Time-series line charts for monthly sales and profit trends.
+- Map visualizations for state performance.
+- Forecast dashboard for 15-day sales projection.
+- Forecasting: Enabled forecasting in the line chart visual using Power BI analytics pane with confidence intervals.
+
 
 

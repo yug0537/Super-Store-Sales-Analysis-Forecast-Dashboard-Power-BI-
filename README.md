@@ -4,4 +4,5 @@ This interactive dashboard provides an end-to-end analysis of Super Store sales 
 ## Project Objective
 The primary objective of this project is to analyze and visualize Super Store sales data to uncover trends, patterns, and performance indicators that support business decision-making. Additionally, the project aims to predict future sales using Power BI’s forecasting capabilities.
 
+## Dataset Used
 
